@@ -1,0 +1,25 @@
+.clock-containner{
+    display: flex;
+    font-size: 4rem;
+    position: absolute;
+    top: 30vh;
+    left: 85vh;
+    font-weight: bolder;
+}
+
+#heading{
+    position: absolute;
+    left: 82vh;
+    top: 20vh;
+    color: white;
+}
+
+body{
+    background-color: red;
+}
+
+#heading:hover{
+    background-color: black;
+    color: white;
+    cursor: default;
+}
